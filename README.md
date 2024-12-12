@@ -1,3 +1,3 @@
-# assignments
-pythons assignments
+# Python Programs
+
 Author - Nitin Hatkar
